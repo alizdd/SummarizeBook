@@ -11,6 +11,9 @@ Open python CLI, than run:
 *import nltk*
 *nltk.download()*
 
+
+
+
 After a while the nltk download interface will pop up, download the models shown below;
 
 
