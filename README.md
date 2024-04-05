@@ -16,7 +16,7 @@ Open python CLI, than run:
 
 After a while the nltk download interface will pop up, download the models shown below;
 
-
+![Ntlk downloader interface](https://github.com/alizdd/SummarizeBook/blob/main/nltkdownloader.png?raw=true)
 
 
 
